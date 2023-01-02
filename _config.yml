@@ -34,7 +34,7 @@ favicon_svg: "/assets/images/favicon.svg"
 show_excerpts: false
 
 # Build settings
-theme: minima-plex
+remote_theme: questionlp/minima-plex
 minima-plex:
   skin: dark
   date_format: "%d %B %Y"
