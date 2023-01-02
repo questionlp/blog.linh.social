@@ -40,11 +40,11 @@ minima-plex:
   date_format: "%d %B %Y"
 
   social_links:
-    - { platform: Mastodon, user_url: "https://linh.social/@qlp" }
-    - { platform: GitHub, user_url: "https://github.com/questionlp"}
-    - { platform: Flickr, user_url: "https://flickr.com/questionlp"}
-    - { platform: Instagram, user_url: "https://instagram.com/theqlp"}
-    - { platform: RSS, user_url: "/feed.xml"}
+    - { platform: mastodon, user_url: "https://linh.social/@qlp" }
+    - { platform: github, user_url: "https://github.com/questionlp"}
+    - { platform: flickr, user_url: "https://flickr.com/questionlp"}
+    - { platform: instagram, user_url: "https://instagram.com/theqlp"}
+    - { platform: rss, user_url: "/feed.xml"}
 
 plugins:
   - jekyll-feed
