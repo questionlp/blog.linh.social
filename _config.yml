@@ -26,15 +26,18 @@ email: theqlp@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Nothing to see here
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: blog.linh.social
+url: "https://blog.linh.social" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: "/assets/images/favicon.png"
+favicon_svg: "/assets/images/favicon.svg"
 
 show_excerpts: false
 
 # Build settings
-#theme: minima-plex
-remote_theme: questionlp/minima-plex
+theme: minima-plex
 minima-plex:
   skin: dark
+  date_format: "%d %B %Y"
 
   social_links:
     - { platform: Mastodon, user_url: "https://linh.social/@qlp" }
