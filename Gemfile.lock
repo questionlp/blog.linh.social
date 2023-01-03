@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/questionlp/minima-plex.git
-  revision: 71546de6b9d9c2635b12edd3cc7483b8c4319cdf
+  revision: b3096a91339a19417c7d0e388b7819f7e25149d4
   specs:
-    minima-plex (0.0.7)
+    minima-plex (0.0.11)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
@@ -269,7 +269,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 3.9.2)
   jekyll-feed (~> 0.15.1)
-  minima-plex (>= 0.0.7)!
+  minima-plex (>= 0.0.11)!
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)

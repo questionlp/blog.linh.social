@@ -20,18 +20,19 @@
 
 author:
   name: Linh Pham
-  email: ""
-title: Linh Pham | Blog
-email: theqlp@icloud.com
+  email: hello@linh.social
+title: "Linh Pham | Blog"
 description: >- # this means to ignore newlines until "baseurl:"
-  Nothing to see here
+  Writings and musings about technology, programming, and other random topics.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: blog.linh.social
 url: "https://blog.linh.social" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/assets/images/favicon.png"
 favicon_svg: "/assets/images/favicon.svg"
+apple_touch_icon: "/assets/images/apple-touch-icon.png"
+google_analytics: "G-9ZSYX22V2Z"
 
-show_excerpts: false
+show_excerpts: true
 
 # Build settings
 remote_theme: questionlp/minima-plex
@@ -41,10 +42,11 @@ minima-plex:
 
   social_links:
     - { platform: mastodon, user_url: "https://linh.social/@qlp" }
-    - { platform: github, user_url: "https://github.com/questionlp"}
-    - { platform: flickr, user_url: "https://flickr.com/questionlp"}
-    - { platform: instagram, user_url: "https://instagram.com/theqlp"}
-    - { platform: rss, user_url: "/feed.xml"}
+    - { platform: github, user_url: "https://github.com/questionlp" }
+    - { platform: flickr, user_url: "https://flickr.com/questionlp" }
+    - { platform: instagram, user_url: "https://instagram.com/theqlp" }
+    - { platform: donate, user_url: "https://ko-fi.com/questionlp" }
+    - { platform: rss, user_url: "/feed.xml" }
 
 plugins:
   - jekyll-feed
