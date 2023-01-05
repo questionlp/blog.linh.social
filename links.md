@@ -8,7 +8,7 @@ permalink: /links/
 
 - [Mastodon: @qlp@linh.social](https://linh.social/@qlp)
 - [Instagram: @theqlp](https://instagram.com/theqlp)
-- [Flickr: questionlp](https://flickr.com/questionlp)
+- [Flickr: questionlp](https://www.flickr.com/people/questionlp/)
 
 ## Wait Wait Stats
 
@@ -23,6 +23,6 @@ permalink: /links/
 - [Wait Wait Stats Python Package: wwdtm](https://pypi.org/project/wwdtm/)
   - [GitHub: wwdtm](https://github.com/questionlp/wwdtm)
 
-## Other
+## Other Projects
 
 - [Marsupial Gurgle: TBTL Clip Archive](https://marsupialgurgle.com)
