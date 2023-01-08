@@ -35,7 +35,6 @@ apple_touch_icon: "/assets/images/apple-touch-icon.png"
 google_analytics: "G-9ZSYX22V2Z"
 
 show_excerpts: true
-excerpt_separator: <!--more-->
 permalink: pretty
 
 include: [".well-known"]

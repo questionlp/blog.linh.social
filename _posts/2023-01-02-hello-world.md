@@ -3,6 +3,7 @@ layout: post
 title:  "Hello World!"
 date:   2023-01-02 13:40:00 -0800
 tags:   update
+excerpt_separator: <!--more-->
 ---
 
 Hello everyone! 👋🏼
