@@ -42,7 +42,7 @@ include: [".well-known"]
 # Build settings
 remote_theme: questionlp/minima-plex
 minima-plex:
-  skin: dark
+  skin: auto
   date_format: "%d %B %Y"
 
   social_links:
