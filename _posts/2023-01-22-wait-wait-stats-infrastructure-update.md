@@ -15,8 +15,8 @@ One last server that hosts the Wait Wait Stats MySQL database.
 
 ![Diagram of the Wait Wait Stats Infrastructure in 2022](/assets/images/wait-wait-stats-infrastructure-2022.png "Diagram of the Wait Wait Stats Infrastructure in 2022")
 
-The new simplified infrastructure will consist of a single server that will host both the Wait Wait Stats Page web application (served through NGINX with caching) and the Wait Wait Stats MySQL database. The Reports, Graphs and Stats API web applications will either migrate over to the new server or off-loaded to a smaller instance, depending on system load.
+The new simplified infrastructure will consist of a single server that will host all of the Wait Wait Stats-related web applications (each served through NGINX with caching) and the Wait Wait Stats MySQL database. If the load on the system starts to grow, I can easily spin up another server that can host the Reports, Graphs and/or Stats API web applications.
 
-This allows me to shrink down the number of instances down to 1 or 2 instances (plus one for a lightweight staging instance) and reduce the database query times, as it no longer has to traverse the network. Even if the Reports, Graphs and Stats API applications are still hosted on a separate server, they don't receive as much traffic as the Stats Page.
+This allows me to shrink down the number of instances down to a single server for production, as well as a lightweight server for staging. This also has a side effect of reducing database query times; due to, not having to traverse a network with potentially inconsistent latency.
 
-If I need to handle more traffic for the Stats Page, I can either scale the size of the server up or clone the server and set up MySQL replication for the Wait Wait Stats database.
+Later on, if I want to have some form of redundancy or load balancing, I can spin up another server and use MySQL replication to keep the databases synchronized. Instead of having the two servers be fronted by another server running NGINX, I will opt for DNS load balancing.
