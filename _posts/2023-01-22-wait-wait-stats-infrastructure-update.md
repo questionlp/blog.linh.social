@@ -3,7 +3,6 @@ layout: post
 title:  "Wait Wait Stats Infrastructure Updates"
 date:   2023-01-22 21:00:00 -0800
 tags:   waitwait infrastructure
-excerpt_separator: <!--more-->
 ---
 
 Up through today, the infrastructure that hosts the Wait Wait Stats Page and its related sites is made up of 6 servers running on [DigitalOcean](https://www.digitalocean.com/?refcode=511267eeda51&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge") (referral link):
@@ -11,8 +10,6 @@ Up through today, the infrastructure that hosts the Wait Wait Stats Page and its
 * 1x Front-end NGINX server that acts as a load balancer and a caching reverse proxy
 * 3x Web application servers, each running an instance of the Stats Page, Stats API, Graphs and Reports Flask- or FastAPI-based applications, served through NGINX
 * 1x MySQL database server that hosts the Wait Wait Stats database
-
-<!--more-->
 
 [![Diagram of the Wait Wait Stats Infrastructure in 2022](/assets/images/wait-wait-stats-infrastructure-2022.png "Diagram of the Wait Wait Stats Infrastructure in 2022")](/assets/images/wait-wait-stats-infrastructure-2022.png)
 
