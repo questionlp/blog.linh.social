@@ -6,9 +6,10 @@ permalink: /links/
 
 ## Social Media/Networking
 
-- [Mastodon: @qlp@linh.social](https://linh.social/@qlp)
-- [Instagram: @theqlp](https://instagram.com/theqlp)
+- [Mastodon: qlp@linh.social](https://linh.social/@qlp)
+- [Instagram: theqlp](https://instagram.com/theqlp)
 - [Flickr: questionlp](https://www.flickr.com/people/questionlp/)
+- [GitHub: questionlp](https://github.com/questionlp) ([GitHub Gists](https://gist.github.com/questionlp))
 
 ## Current Projects
 
