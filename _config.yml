@@ -47,12 +47,12 @@ minima-plex:
   date_format: "%d %B %Y"
 
   social_links:
-    - { platform: mastodon, user_url: "https://linh.social/@qlp" }
-    - { platform: github, user_url: "https://github.com/questionlp" }
-    - { platform: flickr, user_url: "https://flickr.com/questionlp" }
-    - { platform: instagram, user_url: "https://instagram.com/theqlp" }
-    - { platform: donate, user_url: "https://ko-fi.com/questionlp" }
-    - { platform: rss, user_url: "/feed.xml" }
+    - { platform: mastodon, user_url: "https://linh.social/@qlp", title: "Mastodon" }
+    - { platform: github, user_url: "https://github.com/questionlp", title: "GitHub" }
+    - { platform: flickr, user_url: "https://flickr.com/questionlp", title: "Flickr" }
+    - { platform: instagram, user_url: "https://instagram.com/theqlp", title: "Instagram" }
+    - { platform: donate, user_url: "https://ko-fi.com/questionlp", title: "Donate" }
+    - { platform: rss, user_url: "/feed.xml", title: "RSS Feed" }
 
 plugins:
   - jekyll-feed
