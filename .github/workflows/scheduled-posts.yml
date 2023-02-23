@@ -1,8 +1,8 @@
-name: Build site every 3 hours
+name: Build site every 2 hours
 
 on:
   schedule:
-   - cron: '0 */3 * * *'
+   - cron: '0 */2 * * *'
 jobs:
   curl:
     runs-on: ubuntu-latest
