@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Homelab Setup: Networking"
-date:   2023-02-27 18:00:00 -0800
+date:   2023-02-27 10:00:00 -0800
 tags:   homelab networking
 excerpt_separator: <!--more-->
 ---
