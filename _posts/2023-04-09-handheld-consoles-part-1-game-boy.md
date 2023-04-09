@@ -20,7 +20,7 @@ Since the Game Boy did not have a backlight, I had gotten a Nuby Game Light atta
 
 Over the next few years, my Game Boy game collection would grow to around 20 games. Of those, I would consider Super Mario Land, Final Fantasy Adventure, and The Legend of Zelda: Link's Awakening to be my top three favorite games.
 
-While Super Mario Land may not rank as highly as Super Mario Land 2: 6 Golden Coins on other people's lists, but I find the larger size of objects makes everything feel really cramped versus the first Mario Land. Plus, the theme for the Muda Kingdom in Super Mario Land just slaps. Check out Smooth McGroove's [acapella version](https://www.youtube.com/watch?v=fz_wYIHA8Qg) of the song; but, be warned, it may get stuck in your head for a while.
+While Super Mario Land may not rank as highly as Super Mario Land 2: 6 Golden Coins on other people's lists, but I find the larger size of objects makes everything feel really cramped versus the first Mario Land. Plus, the "Muda Kingdom" theme in Super Mario Land just slaps. Check out Smooth McGroove's [acapella version](https://www.youtube.com/watch?v=fz_wYIHA8Qg) of the song; but, be warned, it may get stuck in your head for a while.
 
 [![Nintendo Game Boy with an IPS display](/assets/images/handhelds/nintendo_game_boy.jpg "Nintendo Game Boy with an IPS display")](/assets/images/handhelds/nintendo_game_boy.jpg)
 
