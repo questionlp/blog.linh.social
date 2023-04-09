@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Handheld Consoles Part 1: Game Boy"
-date:   2023-04-09 16:00:00 -0800
+date:   2023-04-09 16:00:00 -0700
 tags:   video-games
 excerpt_separator: <!--more-->
 ---
