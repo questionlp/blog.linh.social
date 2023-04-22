@@ -12,4 +12,6 @@ For library development, I have also bumped the required version of [flake8](htt
 
 On the documentation side, which is hosted at [Read the Docs](https://readthedocs.org) at [docs.wwdt.me](https://docs.wwdt.me), the version of [Sphinx](https://www.sphinx-doc.org/en/master/) has been bumped from 5.3.0 to 6.1.3 and the configured build environment used for the build is now set to use Ubuntu 22.04 and Python 3.10.
 
+The full changelog is available in the [CHANGES.rst](https://github.com/questionlp/wwdtm/blob/main/CHANGES.rst) in the repository.
+
 Up next will be to update the [Wait Wait Stats Page](https://stats.wwdt.me/) and [Wait Wait Stats API](https://api.wwdt.me/) applications up use the new version of the library.
