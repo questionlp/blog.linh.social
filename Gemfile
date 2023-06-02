@@ -36,3 +36,5 @@ gem "minima-plex", ">= 0.3.1", git: "https://github.com/questionlp/minima-plex.g
 gem "github-pages", "~> 228", group: :jekyll_plugins
 
 gem "webrick", "~> 1.7"
+
+gem "jekyll-sitemap", "~> 1.4"
