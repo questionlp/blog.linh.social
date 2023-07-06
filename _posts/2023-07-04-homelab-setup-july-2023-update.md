@@ -8,11 +8,12 @@ excerpt_separator: <!--more-->
 
 Since publishing the "[Homelab Setup: Servers]({% post_url 2023-02-23-homelab-setup-servers %})" post back in February, I have made several changes and updates to my homelab; including, some consolidation of workloads and an update on the storage side of things.
 
+**Update:** There has been a little shuffling around with the Raspberry Pi 4 boards that are currently in use since this post was written. The "[Raspberry Pi Updates]({% post_url 2023-07-04-homelab-setup-july-2023-update %}#raspberry-pi-updates)" section has been updated to reflect the latest changes.
 <!--more-->
 
 ## Raspberry Pi Updates
 
-The first change has been the addition of a third Raspberry Pi 4 board running VMware ESXi on ARM Fling and a fourth one that will be joining the collection soon. The third board only has 4 GB of RAM, but that is more than sufficient for running a backup internal DNS server (previously running as an ESXi virtual machine on the Dell Precision 3430 SFF). The fourth board has 8 GB of RAM and I'm not entirely sure what I will be using that one just yet.
+The first change has been the addition of a third Raspberry Pi 4 board running VMware ESXi on ARM Fling and a fourth one that will be joining the collection soon. Like the first two boards, the third board has 8 GB of RAM, and that is definitely more than sufficient for running a backup internal DNS server (previously running as an ESXi virtual machine on the Dell Precision 3430 SFF). The fourth board has 4 GB of RAM and I'm not entirely sure what I will be using that one just yet.
 
 For the newer Pi 4 boards, I have switched away from CanaKit's Flirc-style fanless, aluminum cases to fan-less, aluminum heatsink cases that sandwich the Pi 4 board. While the CanaKit cases are nice looking, but they don't seem to be able to shed as much heat as I would like; especially, with the weather getting warmer. I didn't want to get a case with the fan that not only adds a point of failure, but those tiny fans are bound to be noisy (eventually).
 
