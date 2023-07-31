@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Homelab Upgrade: TrueNAS Mini X+"
-date:   2023-07-30 20:00:00 -0700
+date:   2023-07-30 21:30:00 -0700
 tags:   homelab storage truenas
 excerpt_separator: <!--more-->
 ---
