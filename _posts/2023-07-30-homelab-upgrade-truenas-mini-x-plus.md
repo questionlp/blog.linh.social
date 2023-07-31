@@ -66,7 +66,7 @@ I enabled case sensitivity for the datasets since I have a mix of macOS, Linux, 
 
 [![Screenshot of TrueNAS SCALE Sharing Page](/assets/images/truenas/truenas-sharing.png "Screenshot of TrueNAS SCALE Sharing Page")](/assets/images/truenas/truenas-sharing.png)
 
-One configuration setting I would highly recommend you look into is changing the "ACL Type" set for the datasets that be used for SMB shares from `POSIX` to `SMB/NFSv4`. The setting is hidden under the dataset's "Advanced Options". This can resolve issues where
+One configuration setting I would highly recommend you look into is changing the "ACL Type" set for the datasets that be used for SMB shares from `POSIX` to `SMB/NFSv4`. The setting is hidden under the dataset's "Advanced Options". This can resolve an issue where browsing directories in SMB shares in Windows takes much longer than expected.
 
 ## Transferring Data to the TrueNAS Server
 
