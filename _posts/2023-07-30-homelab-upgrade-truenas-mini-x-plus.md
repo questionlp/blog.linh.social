@@ -66,6 +66,8 @@ I enabled case sensitivity for the datasets since I have a mix of macOS, Linux, 
 
 [![Screenshot of TrueNAS SCALE Sharing Page](/assets/images/truenas/truenas-sharing.png "Screenshot of TrueNAS SCALE Sharing Page")](/assets/images/truenas/truenas-sharing.png)
 
+One configuration setting I would highly recommend you look into is changing the "ACL Type" set for the datasets that be used for SMB shares from `POSIX` to `SMB/NFSv4`. The setting is hidden under the dataset's "Advanced Options".
+
 ## Transferring Data to the TrueNAS Server
 
 To transfer files stored in the existing shares on the Synology NAS over to the new corresponding shares on the TrueNAS server, I used [Carbon Copy Cloner](https://bombich.com) on my 2018 Core i3 Apple Mac mini. It is the same application I use to backup data from the Synology NAS to the external hard drives.
