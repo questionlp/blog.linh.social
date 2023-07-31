@@ -62,11 +62,11 @@ I had to reboot the SCALE server to detect that I changed the drive sizes. After
 
 Once the zpool was completed, I created a `main` dataset that will hold other datasets that will be created for each share. The `main` dataset also defines the compression, deduplication, and sync settings the child datasets will use. Most datasets I created use `zstd` for compression instead of the default `lz4` to reduce overall CPU usage required to decompress data when data is read, at the expense of additional CPU usage when writing data.
 
-I enabled case sensitivity for the datasets since I have a mix of macOS, Linux, and Windows clients. I also set the share type for the datasets to `Generic` rather than `SMB` even though the datasets will be shared as both SMB and NFS shares.
+I enabled case sensitivity for the datasets since I have a mix of macOS, Linux, and Windows clients. I also set the share type for the datasets to `Generic` rather than `SMB` even though the datasets will be shared as both SMB and NFS shares. This can resolve an issue where browsing directories in SMB shares in Windows takes much longer than expected.
 
 [![Screenshot of TrueNAS SCALE Sharing Page](/assets/images/truenas/truenas-sharing.png "Screenshot of TrueNAS SCALE Sharing Page")](/assets/images/truenas/truenas-sharing.png)
 
-One configuration setting I would highly recommend you look into is changing the "ACL Type" set for the datasets that be used for SMB shares from `POSIX` to `SMB/NFSv4`. The setting is hidden under the dataset's "Advanced Options".
+One configuration setting I would highly recommend you look into is changing the "ACL Type" set for the datasets that be used for SMB shares from `POSIX` to `SMB/NFSv4`. The setting is hidden under the dataset's "Advanced Options". This can resolve issues where
 
 ## Transferring Data to the TrueNAS Server
 
