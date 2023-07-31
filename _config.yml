@@ -54,6 +54,9 @@ minima-plex:
     - { platform: donate, user_url: "https://ko-fi.com/questionlp", title: "Donate" }
     - { platform: rss, user_url: "/feed.xml", title: "RSS Feed" }
 
+kramdown:
+  smart_quotes: apos,apos,quot,quot
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
