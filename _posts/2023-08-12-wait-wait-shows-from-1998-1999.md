@@ -6,11 +6,11 @@ tags:   waitwait
 excerpt_separator: <!--more-->
 ---
 
-A while back, after being able to download [Wait Wait Don't Tell Me!](https://waitwait.npr.org/) shows that aired back to 2000, I worked with the folks at Wait Wait and [NPR](https://npr.org/) to request access to the shows that aired in 1998 and 1999. At that time, the NPR Rights and Permissions team would need some time to see if and how they could provide me access to those shows. After a few months, I did not hear back from them and moved on with other things.
+A while back, after being able to download [Wait Wait Don't Tell Me!](https://waitwait.npr.org/) shows that aired back to 2000, I worked with the folks at Wait Wait and [NPR](https://npr.org/) to request access to the shows that aired in 1998 and 1999. At that time, the NPR Rights and Permissions group would need some time to see if and how they could provide me access to those shows. After a few months, I did not hear back from them and moved on with other things.
 
 <!--more-->
 
-In July, I contacted the NPR Permissions team with another request. They referred me to the folks at [WBEZ](https://wbez.org/), who then referred me back to NPR since NPR is the rightsholder of the show. A member of the NPR Permissions team asked me to contact the [Special Collections](https://www.lib.umd.edu/collections/special) group at the [University of Maryland](https://umd.edu/), which manages the archives for NPR.
+In July, I contacted the NPR Permissions group with another request. They referred me to the folks at [WBEZ](https://wbez.org/), who then referred me back to NPR since NPR is the rightsholder of the show. A member of the NPR Permissions group asked me to contact the [Special Collections](https://www.lib.umd.edu/collections/special) group at the [University of Maryland](https://umd.edu/), which manages the archives for NPR.
 
 After contacting the Special Collections group, I worked with several folks to submit the necessary requests using their provided information and instructions. Within a week, they provided me with audio files for the first set of shows that aired in 1998. I will continue to receive additional shows over the next few months.
 
@@ -23,3 +23,5 @@ So far, I have listened to the first show that aired on January 3, 1998, with Da
 Instead of having a Lightning Fill-in-the-Blank round to close out the show, there is a Lightning True or False segment in which answering a question correctly earns a panelist a point while incorrectly answering a question deducts a point. The last segment of the show where a panelist can earn points is a quick essay where each panelist writes on a given topic, and Carl would grade their essay with up to 10 points. This can lead to panelists finishing the game with more than the typical 20-point ceiling. Though, that ceiling was broken by Roxanne Roberts several years ago.
 
 I am filling out a page in a [Field Notes memo book](https://fieldnotesbrand.com/products/original-kraft) with each show, as I do with any other show I have been taking notes for. I am still refining the formatting of the notes I will take for each show I will listen to.
+
+I want to thank everyone I've worked with at NPR Permissions and the Special Collections group at the University of Maryland for their time and assistance on this project.
