@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wait Wait Shows from 1998 to 1999"
+title:  "Wait Wait Shows From 1998 to 1999"
 date:   2023-08-12 18:15:00 -0700
 tags:   waitwait
 excerpt_separator: <!--more-->
