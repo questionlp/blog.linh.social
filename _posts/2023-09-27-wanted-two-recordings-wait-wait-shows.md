@@ -8,6 +8,8 @@ excerpt_separator: <!--more-->
 
 Over the past two months, I have received the recordings for the [Wait Wait Don't Tell Me!](https://waitwait.npr.org/) shows aired in 1998 and 1999 from the [Special Collections](https://www.lib.umd.edu/collections/special) at the [University of Maryland](https://umd.edu/). There was one recording they had listed for Wait Wait for May 23, 1998, but the program had been preempted by an airing of "Rock & Roll America."
 
+<!--more-->
+
 The folks at the Special Collections could not track down any other records for the Wait Wait show that aired on that date.
 
 Looking through the shows that I had been able to download in past years, with shows starting from mid-January 2000, I found that I have another gap: the show that aired on January 8, 2000. I had requested the folks at the Special Collections to see if they had any information for that show in their archives, but I am still awaiting a response.
