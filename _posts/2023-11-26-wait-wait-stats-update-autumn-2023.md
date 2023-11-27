@@ -10,6 +10,8 @@ Since I last posted an update on listening to [Wait Wait Don't Tell Me!](https:/
 
 The most significant behind-the-scenes update is dropping support for Python versions earlier than 3.10 and adding support for Python 3.12 across the board. Once Python 3.12 is included in various long-term support distributions, I will increase the minimum version to 3.12 to use many new features introduced in 3.11 and 3.12.
 
+<!--more-->
+
 The first component that had to be updated was the [wwdtm](https://github.com/questionlp/wwdtm) library, which included replacing the date parsing code to move away from the [python-dateutil](https://pypi.org/project/python-dateutil/) third-party library to the built-in `datetime` module.
 
 Additional updates to the library include updating required versions for both [MySQL Connector/Python](https://dev.mysql.com/doc/connector-python/en/) and [NumPy](https://numpy.org). The Sphinx documentation generator version was also updated to version 7.2.6. In addition, the Read the Docs build configuration was updated to use Python 3.12. The library documentation is available at [docs.wwdt.me](https://docs.wwdt.me).
