@@ -2,7 +2,7 @@
 layout: post
 title:  "Homelab Setup: Servers"
 date:   2023-02-23 14:00:00 -0800
-tags:   homelab servers
+tags:   homelab servers virtualization
 excerpt_separator: <!--more-->
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Homelab Setup: July 2023 Update"
 date:   2023-07-04 19:45:00 -0700
-tags:   homelab servers storage networking update
+tags:   homelab servers storage networking virtualization update
 excerpt_separator: <!--more-->
 ---
 
