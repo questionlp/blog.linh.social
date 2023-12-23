@@ -51,6 +51,7 @@ minima-plex:
     - { platform: github, user_url: "https://github.com/questionlp", title: "GitHub" }
     - { platform: flickr, user_url: "https://flickr.com/questionlp", title: "Flickr" }
     - { platform: instagram, user_url: "https://instagram.com/theqlp", title: "Instagram" }
+    - { platform: bluesky, user_url: "https://bsky.app/profile/linh.social", title: "Bluesky"}
     - { platform: donate, user_url: "https://ko-fi.com/questionlp", title: "Donate" }
     - { platform: rss, user_url: "/feed.xml", title: "RSS Feed" }
 
