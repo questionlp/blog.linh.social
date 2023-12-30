@@ -6,7 +6,7 @@ tags:   homelab servers virtualization
 excerpt_separator: <!--more-->
 ---
 
-As I mentioned in my last post, "[nutters: Flask UPS Monitoring Web Application]({% post_url 2023-02-17-nutters-flask-ups-monitoring %})," I have a small homelab set up at home that includes a few systems that act as servers, storage, and networking devices.
+As I mentioned in my last post, "[upsview: Flask UPS Monitoring Web Application]({% post_url 2023-02-17-upsview-flask-ups-monitoring %})," I have a small homelab set up at home that includes a few systems that act as servers, storage, and networking devices.
 
 I am starting a series of posts that will provide a bit of a view into my homelab and explain why I opted to go down a certain route. In this post, I'll cover the computers that I have that act as my servers.
 

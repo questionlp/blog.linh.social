@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "nutters: Flask UPS Monitoring Web Application"
+title:  "upsview: Flask UPS Monitoring Web Application"
 date:   2023-02-17 2:00:00 -0800
 tags:   python flask
 excerpt_separator: <!--more-->
 ---
+
+**Note:** The name of the project and the application has been renamed to `upsview`. I have updated the post to reflect the name change.
 
 After picking up a second UPS battery backup unit to provide backup power for my cable modem and a few items in my A/V stack that is located too far away from the primary UPS for my server and networking stack. I wanted to create something really simple and lightweight that can display information such as UPS load, battery charge level, and estimated battery run time.
 
@@ -20,8 +22,6 @@ The first iteration of the web app would be served through [nginx](https://nginx
 
 Below is a screenshot of the generated web page for the two UPS units that I have at home:
 
-![Screenshot of the nutters Web Application](/assets/images/nutters-screenshot.png "Screenshot of the nutters Web Application")
+![Screenshot of the upsview Web Application](/assets/images/upsview-screenshot.png "Screenshot of the upsview Web Application")
 
-Having felt like the web app was now at a good, stable point, I have published the project under the open source [MIT License](https://github.com/questionlp/nutters/blob/main/LICENSE). The [Git repository](https://github.com/questionlp/nutters) for the project is hosted on GitHub. I have included setup and installation instructions in the README file.
-
-If you were wondering *why* I named the web app, "nutters". It's meant to be a play on the abbreviated name for Network UPS Tools: NUT.
+Having felt like the web app was now at a good, stable point, I have published the project under the open source [MIT License](https://github.com/questionlp/upsview/blob/main/LICENSE). The [Git repository](https://github.com/questionlp/upsview) for the project is hosted on GitHub. I have included setup and installation instructions in the README file.
