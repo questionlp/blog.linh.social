@@ -53,7 +53,7 @@ minima-plex:
     - { platform: flickr, user_url: "https://flickr.com/questionlp", title: "Flickr" }
     - { platform: instagram, user_url: "https://instagram.com/theqlp", title: "Instagram" }
     - { platform: bluesky, user_url: "https://bsky.app/profile/linh.social", title: "Bluesky"}
-    - { platform: patreon, user_url: "https://patreon.com/WaitWaitStats", title: "Patreon"}
+    - { platform: patreon, user_url: "https://patreon.com/Linh_Pham", title: "Patreon"}
     - { platform: rss, user_url: "/feed.xml", title: "RSS Feed" }
 
 kramdown:
