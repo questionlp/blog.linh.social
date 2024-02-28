@@ -80,7 +80,7 @@ Several dependent packages needed to be installed using DNF before I could start
 
 ```bash
 sudo dnf groupinstall "Development Tools" 
-sudo dnf install zlib-devel bzip2 bzip2-devel readline-devel sqlite sqlite-devel openssl-devel xz xz-devel libffi-devel findutils tk-devel libyaml-devel
+sudo dnf install zlib-devel bzip2 bzip2-devel readline-devel sqlite sqlite-devel openssl-devel xz xz-devel libffi-devel findutils tk-devel libyaml-devel gcc-g++
 ```
 
 After installing the dependencies, I installed the version managers by cloning their respective Git repositories into my home directory as `.pyenv`, `.rbenv`, and `.nvm`. For rbenv, I also needed to clone the [ruby-build](https://github.com/rbenv/ruby-build) repository under the `$HOME/.rbenv/plugins` directory.
