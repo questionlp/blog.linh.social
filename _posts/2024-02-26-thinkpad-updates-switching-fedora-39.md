@@ -33,7 +33,7 @@ On a positive note, quickly connecting to and browsing files over SMB and SCP/SF
 Once settled in, it was time to install the necessary applications and packages for general desktop use and Python, Node, and Ruby development. First up were several command-line tools and fonts:
 
 ```bash
-sudo dnf install htop screen vim neofetch mozilla-fira-mono-fonts mozilla-fira-sans-fonts fira-code-fonts jetbrains-mono-fonts-all cascadia-fonts-all cascadia-code-fonts cascadia-code-pl-fonts ibm-plex-fonts-all git gh zsh avai-tools
+sudo dnf install htop screen vim neofetch mozilla-fira-mono-fonts mozilla-fira-sans-fonts fira-code-fonts jetbrains-mono-fonts-all cascadia-fonts-all cascadia-code-fonts cascadia-code-pl-fonts ibm-plex-fonts-all git gh zsh avahi-tools
 ```
 
 Since Fedora does not include any non-free multimedia codecs in the default installation, I followed the instructions to [install the OpenH264 package using the steps](https://docs.fedoraproject.org/en-US/quick-docs/openh264/) provided by the Fedora Project:
@@ -61,7 +61,7 @@ After enabling the RPM Fusion repositories, I installed the necessary packages t
 ```bash
 sudo dnf install intel-media-driver libva-utils mpv
 sudo dnf swap ffmpeg-free ffmpeg --allowerasing
-sudo dnf groupupgrade multimedia
+sudo dnf group upgrade multimedia
 ```
 
 I restarted the laptop and verified that I could watch videos from several streaming services that used the H.264 codec and used the `intel_gpu_top` tool to see that the video playback in Firefox and MPV was being hardware accelerated.
