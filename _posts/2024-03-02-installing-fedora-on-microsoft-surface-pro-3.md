@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing Fedora on a Microsoft Surface Pro 3"
-date:   2024-03-02 20:30:00 -0800
+date:   2024-03-02 20:40:00 -0800
 tags:   fedora hardware laptops linux
 excerpt_separator: <!--more-->
 ---
@@ -16,6 +16,8 @@ start_image() returned Unsupported
 ```
 
 The error message would appear if the Surface had Secure Boot enabled, which is the default setting, but would work if Secure Boot was disabled.<!--more--> I found a [post on the Fedora Discussion](https://discussion.fedoraproject.org/t/bug-cant-boot-on-microsoft-surface-devices/93612) site where someone had the same issue with their Surface. Due to time constraints, I opted to install Debian 12 with KDE Plasma to see how well Debian would run on the Surface.
+
+## Preparing and Modifying Fedora Installer Files
 
 Fast forward to this past week, I had some spare time to see if I could get the KDE spin of Fedora 39 running on the Surface. The first thing I did was to write a copy of the Live ISO image onto a USB thumb drive using the following command on my ThinkPad T14 Gen 3 (running Fedora 39):
 
@@ -43,7 +45,11 @@ sudo rm BOOTX64.EFI BOOTIA32.EFI grubia32.efi
 sudo cp {Path to extracted shim-x64-15.4-5.x86_64.rpm}/boot/efi/EFI/BOOT/BOOTX64.EFI BOOTX64.EFI
 ```
 
-After following those steps, I unmounted the filesystem and the thumb drive and tried to boot the Surface using the thumb drive with Secure Boot enabled. The Surface could finally boot from the thumb drive, and I was greeted with the boot loader menu. For some reason, the display settings for the KDE live boot had screen scaling set to 175%, causing the Fedora installer to have hilariously large text. I changed the screen scaling down to 120% and restarted the installer. After installing Fedora and rebooting the Surface, a repeating series of error messages appeared on the screen:
+After following those steps, I unmounted the filesystem and the thumb drive and tried to boot the Surface using the thumb drive with Secure Boot enabled. The Surface could finally boot from the thumb drive, and I was greeted with the boot loader menu. For some reason, the display settings for the KDE live boot had screen scaling set to 175%, causing the Fedora installer to have hilariously large text. I changed the screen scaling down to 120% and restarted the installer.
+
+## Post-Installation Tasks
+
+After installing Fedora and rebooting the Surface, a repeating series of error messages appeared on the screen:
 
 ```text
 ../../grub-core/commands/efi/tpm.c:48:Unknown TPM error.
@@ -57,9 +63,11 @@ While searching for the error message online, I found a [different thread](https
 
 Upon restarting the Surface, I was presented with a red screen with the Surface logo, then the same repeating series of error messages. I restarted the Surface again, went back into the firmware settings to verify that both TPM and Secure Boot were enabled, and then restarted the Surface again. Finally, the Surface could boot into Fedora, and everything was running fine.
 
-[![Fullscreen capture from the KDE spin of Fedora 39 on a Surface Pro 3 with a terminal window open showing the output from neofetch and a Systems Settings window](/assets/images/surface/surface-pro-3-fedora-kde-spin.png "KDE spin of Fedora 39 on a Surface Pro 3 with a terminal window open showing the output from neofetch and a Systems Settings window")](/assets/images/surface/surface-pro-3-fedora-kde-spin.png)
+## Using the Surface as a Tablet with Fedora and KDE Plasma
 
 Something I should have tried while Kubuntu or Debian was installed on the Surface was how well KDE Plasma works when switching between laptop and tablet modes and changing from landscape to portrait mode. With Fedora installed, I pulled off the Type Cover and noticed some window decorations (including the minimize, maximize, and close buttons) for windows that use KDE Plasma theming. But other applications, including Firefox, did not.
+
+[![Fullscreen capture from the KDE spin of Fedora 39 on a Surface Pro 3 with a terminal window open showing the output from neofetch and a Systems Settings window](/assets/images/surface/surface-pro-3-fedora-kde-spin.png "KDE spin of Fedora 39 on a Surface Pro 3 with a terminal window open showing the output from neofetch and a Systems Settings window")](/assets/images/surface/surface-pro-3-fedora-kde-spin.png)
 
 Out of the box, KDE did not have a virtual on-screen keyboard enabled but did have the Maliit keyboard available for use in System Settings. Even with the Type Cover attached, the virtual keyboard would appear when I switched to a window anticipating keyboard input, such as Konsole, using the touchscreen, but not when using a trackpad.
 
@@ -67,6 +75,10 @@ Rotating the Surface into portrait orientation was relatively smooth (I would at
 
 [![Fullscreen capture from the KDE spin of Fedora 39 on a Surface Pro 3 in portrait mode with several windows and a virtual keyboard open](/assets/images/surface/surface-pro-3-fedora-tablet-mode.png "KDE spin of Fedora 39 on a Surface Pro 3 in portrait mode with several windows and a virtual keyboard open")](/assets/images/surface/surface-pro-3-fedora-tablet-mode.png)
 
-Other hiccups I ran into when using the Surface in tablet mode include the inconsistency of being able to move and resize windows and selecting, copying, and pasting text. Sometimes, moving or resizing windows causes the virtual keyboard to flicker on and off screen, or the touch targets are too small. A third of the time, I could get the text selection handles to appear when selecting text, but I could not find a way to bring up a context menu or touch pop-up to copy, paste, or cut the text.
+Other hiccups I ran into when using the Surface in tablet mode include the inconsistency of being able to move and resize windows and selecting, copying, and pasting text. Sometimes, moving or resizing windows causes the virtual keyboard to flicker on and off screen, or the touch targets are too small. A third of the time, I could get the text selection handles to appear when selecting text, but I could not bring up a context menu or touch pop-up to copy, paste, or cut the text.
 
-To use the Surface purely in tablet mode, I would need to find a much better virtual keyboard with the necessary function keys, modifiers, and cursor keys. I also need to figure out how to consistently select, copy, and paste text using only the touchscreen.
+## Conclusion
+
+To use the Surface purely in tablet mode, I need to find a better virtual keyboard with the necessary function keys, cursor keys, and modifiers. I also need to figure out how to consistently select, copy, and paste text using only the touchscreen. I will use the Surface in laptop mode most of the time and use tablet mode only when I need to.
+
+The Surface will only see little use as I use my ThinkPad T14 Gen 3 as my Linux daily driver laptop alongside my M1 Max MacBook Pro for macOS applications. My ThinkPad T14 Gen 2 laptop will be used as a secondary laptop for testing applications on Pop!_OS and following the development of the new COSMIC desktop environment.
