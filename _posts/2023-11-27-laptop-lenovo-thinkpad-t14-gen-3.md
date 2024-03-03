@@ -12,7 +12,7 @@ I have a 16" M1 Max MacBook Pro for my daily driver laptop, and I have several l
 
 ## Steam Deck?
 
-I did consider using a Steam Deck as a secondary device, given that Steam OS is built on Arch Linux and has a desktop environment that runs KDE Plasma. But, it is only somewhat portable once you add a keyboard, mouse, trackpad, and USB hub. Also, the screen is too small to use on the go outside of playing games (thanks to EmuDeck).
+I did consider using a Steam Deck as a secondary device, given that Steam OS is built on Arch Linux and has a desktop environment that runs KDE Plasma. But, it is only portable once you add a keyboard, mouse, trackpad, and USB hub. Also, the screen is too small to use on the go outside of playing games (thanks to EmuDeck).
 
 ## Surface Pro 3
 
@@ -46,7 +46,7 @@ The first distro that I tried was Kubuntu 23.10. After installing Kubuntu, I was
 
 [![Screenshot showing system information of the ThinkPad in Pop!_OS](/assets/images/thinkpad/pop-os-sys-info.png "ThinkPad T14 Gen 3 system information shown in Pop!_OS")](/assets/images/thinkpad/pop-os-sys-info.png)
 
-Even for a thin-and-light laptop without discrete graphics and a processor with only two performance cores, the T14 Gen 3 is very snappy, and the fans do not spin up except when pushing the processor hard for a few minutes. The integrated Intel Xe graphics works well for my needs since I do not plan to play modern games on the laptop.
+Even for a thin-and-light laptop without discrete graphics and a processor with only two performance cores, the T14 Gen 3 is very snappy, and the fans do not spin up except when pushing the processor hard for a few minutes. The integrated Intel Xe GPU works well for my needs since I plan to play something other than modern games on the laptop.
 
 While the keyboard's feel is excellent, with decent travel and key stability, the layout is annoying, especially after using an Apple keyboard layout for a long time. The location of the Print Screen key sitting between the right Alt and Ctrl keys is very sub-optimal; the up arrow key is slightly taller than the down arrow key, and the top row function keys are narrow and squished together to fit in the Home, End, Insert and Delete keys. I prefer if the Home and End keys were overlaid on the left and right arrow keys, making the function keys less squished.
 

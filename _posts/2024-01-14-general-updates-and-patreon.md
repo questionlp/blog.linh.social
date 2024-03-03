@@ -2,7 +2,7 @@
 layout: post
 title:  "General Updates and Patreon"
 date:   2024-01-14 18:00:00 -0800
-tags:   hardware linux laptops waitwait update
+tags:   debian hardware linux laptops waitwait update
 excerpt_separator: <!--more-->
 ---
 

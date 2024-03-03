@@ -2,7 +2,7 @@
 layout: post
 title:  "ThinkPad Updates: Switching to Fedora 39"
 date:   2024-02-26 12:05:00 -0800
-tags:   hardware laptops linux
+tags:   fedora hardware laptops linux
 excerpt_separator: <!--more-->
 ---
 

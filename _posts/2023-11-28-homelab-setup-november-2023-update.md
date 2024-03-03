@@ -28,6 +28,6 @@ To round things out, I created an NFS share on my [TrueNAS Mini X+]({% post_url 
 
 While Proxmox VE is less polished than VMware ESXi, much less the paid vSphere suite of products, it serves my virtualization needs very well. To support the continued development of Proxmox VE and to get access to the Enterprise repository for updates, I purchased a Proxmox VE Community subscription for each of the hosts.
 
-As I am writing this point, no official version of Proxmox VE is available for the Raspberry Pi or other ARM-based systems. Several community members have ported the Proxmox software to ARM, but the ports are not ready for 24x7 use.
+As I write this post, no official version of Proxmox VE is available for the Raspberry Pi or other ARM-based systems. Several community members have ported the Proxmox software to ARM, but the ports are not ready for 24x7 use.
 
 For now, my Pi 4 boards will stick with the latest version of ESXi-ARM Fling available. With [Broadcom's acquisition of VMware completed](https://investors.broadcom.com/news-releases/news-release-details/broadcom-completes-acquisition-vmware) and the VMware Flings site no longer available, the future of ESXi-ARM is unknown.
