@@ -31,10 +31,11 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
-gem "minima-plex", ">= 0.3.4", git: "https://github.com/questionlp/minima-plex.git"
+gem "minima-plex", ">= 0.4.2", git: "https://github.com/questionlp/minima-plex.git"
 
 gem "github-pages", "~> 228", group: :jekyll_plugins
 
 gem "webrick", "~> 1.7"
 
 gem "jekyll-sitemap", "~> 1.4"
+gem "jekyll-paginate", "~> 1.1", "< 2.0"
