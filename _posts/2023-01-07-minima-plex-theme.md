@@ -14,13 +14,13 @@ I settled on using Jekyll as I didn't want to use yet-another-application on one
 
 The next step in the process was to find a theme that I liked and it was easy to customize and extend. The default [Minima](https://github.com/jekyll/minima) ticked most of my boxes, though I wanted to change the default fonts and add the ability to display post tags.
 
-For the default font, I had to go with the [IBM Plex] family of fonts; as, IBM Plex Sans and IBM Plex Mono have become the go-to font for almost everything that I have built. Thus, the theme includes skins that use either IBM Plex Sans or IBM Plex Serif, along with light and dark-theme variations.
+For the default font, I had to go with the [IBM Plex](https://www.ibm.com/plex/) family of fonts; as, IBM Plex Sans and IBM Plex Mono have become the go-to font for almost everything that I have built. Thus, the theme includes skins that use either IBM Plex Sans or IBM Plex Serif, along with light and dark-theme variations.
 
 I also wanted a way to list out the tags that are included in the front matter of posts and provide a way to list out the different tags and categories that have been used. I used [Long Qian's blog post](https://longqian.me/2017/02/09/github-jekyll-tag/) as a starting point and extended it to include categories (as their post focused on tags). For the time being, I am manually generating the files; but, their post includes a link to a [tag generator script](https://github.com/qian256/qian256.github.io/blob/master/tag_generator.py) that I could potentially use and expand upon.
 
 If you want to try out the theme with your Jekyll install, you can add the following to the `Gemfile` for your Jekyll installation:
 
-```
+```ruby
 gem "minima-plex", ">= 0.1.1", git: "https://github.com/questionlp/minima-plex.git"
 ```
 
