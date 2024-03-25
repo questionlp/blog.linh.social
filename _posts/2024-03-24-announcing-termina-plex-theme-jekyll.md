@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Announcing Termina Plex Theme for Jekyll"
-date:   2024-03-24 20:30:00 -0800
+date:   2024-03-24 19:50:00 -0800
 tags:   jekyll theme web-design
 excerpt_separator: <!--more-->
 ---
