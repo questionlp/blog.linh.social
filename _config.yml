@@ -31,8 +31,8 @@ termina-plex:
   hostname: linh.social
 
   header_links:
-    - { name: "Blog", url: "/blog" }
     - { name: "About", url: "/about" }
+    - { name: "Blog", url: "/blog" }
     - { name: "Links", url: "/links" }
 
   social_links:

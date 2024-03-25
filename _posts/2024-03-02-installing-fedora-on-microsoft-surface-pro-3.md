@@ -6,7 +6,7 @@ tags:   fedora hardware laptops linux
 excerpt_separator: <!--more-->
 ---
 
-In November, in the blog post about the Lenovo ThinkPad T14 Gen 3 laptop I had purchased, I installed Kubuntu on a Microsoft Surface Pro 3 tablet. Since then, I wanted to try Fedora but ran into a blocker when trying to boot from a USB thumb drive containing any spin of Fedora 39. The following error would appear after the Surface started to boot:
+In November, in the [blog post]({% post_url 2023-11-27-laptop-lenovo-thinkpad-t14-gen-3 %}) about the Lenovo ThinkPad T14 Gen 3 laptop I had purchased, I installed Kubuntu on a Microsoft Surface Pro 3 tablet. Since then, I wanted to try Fedora but ran into a blocker when trying to boot from a USB thumb drive containing any spin of Fedora 39. The following error would appear after the Surface started to boot:
 
 ```text
 Invalid image
@@ -71,7 +71,7 @@ Something I should have tried while Kubuntu or Debian was installed on the Surfa
 
 Out of the box, KDE did not have a virtual on-screen keyboard enabled but did have the Maliit keyboard available for use in System Settings. Even with the Type Cover attached, the virtual keyboard would appear when I switched to a window anticipating keyboard input, such as Konsole, using the touchscreen, but not when using a trackpad.
 
-Rotating the Surface into portrait orientation was relatively smooth (I would attribute any stuttering or screen tearing to the slow integrated graphics). In either landscape or portrait mode, the Maliit virtual keyboard took up a lot of screen real estate. Even with the size of the virtual keyboard, it is missing some critical function keys and modifiers, such as <kbd>CTRL</kbd>, <kbd>ALT</kbd>, or <kbd>ESC</kbd>.
+Rotating the Surface into portrait orientation was relatively smooth (I would attribute any stuttering or screen tearing to the slow integrated graphics). In either landscape or portrait mode, the Maliit virtual keyboard took up a lot of screen real estate. Even with the size of the virtual keyboard, it is missing some critical function keys and modifiers, such as `CTRL`, `ALT`, or `ESC`.
 
 [![Fullscreen capture from the KDE spin of Fedora 39 on a Surface Pro 3 in portrait mode with several windows and a virtual keyboard open](/assets/images/surface/surface-pro-3-fedora-tablet-mode.png "KDE spin of Fedora 39 on a Surface Pro 3 in portrait mode with several windows and a virtual keyboard open")](/assets/images/surface/surface-pro-3-fedora-tablet-mode.png)
 
