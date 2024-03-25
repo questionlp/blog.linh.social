@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Announcing Termina Plex Theme for Jekyll"
-date:   2024-03-24 18:30:00 -0800
+date:   2024-03-24 20:30:00 -0800
 tags:   jekyll theme web-design
 excerpt_separator: <!--more-->
 ---
@@ -15,6 +15,8 @@ Although the theme has served me and this blog well, I started experimenting wit
 | *Landing page for Nightfall* |
 
 After spending some time with 11ty and Pelican, I decided to stick with Jekyll for my blog and searched for themes with the same look and feel as Nightfall. Several themes were close enough, but they required heavier frameworks or a lot of tweaking to look how I wanted them. That is when I decided to port the Nightfall theme over to Jekyll.
+
+When creating the new theme, I decided on "Termina Plex" as a reference to Unix/Unix-like terminals and the IBM Plex typeface, a big part of the theme's design.
 
 To start the porting process, I cloned the Minima and Nightfall repositories. Once the repositories were cloned, I copied over the Sass CSS files from Nightfall and copied in the IBM Plex web font files for the Mono, Sans, and Serif variants. Retrofitting and extending the Minima layout files to make the core design look like Nightfall's took some work.
 
