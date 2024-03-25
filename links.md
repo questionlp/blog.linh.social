@@ -10,6 +10,8 @@ permalink: /links/
 - [Instagram: theqlp](https://instagram.com/theqlp)
 - [Flickr: questionlp](https://www.flickr.com/people/questionlp/)
 - [GitHub: questionlp](https://github.com/questionlp) ([GitHub Gists](https://gist.github.com/questionlp))
+- [Bluesky: linh.social](https://bsky.app/profile/linh.social)
+- [Patreon](https://patreon.com/Linh_Pham)
 
 ## Current Projects
 
