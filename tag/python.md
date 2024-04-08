@@ -1,4 +1,4 @@
 ---
-layout: tag-page
+layout: tag
 tag: python
 ---
