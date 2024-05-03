@@ -2,7 +2,7 @@
 layout: post
 title:  "Thoughts on the FunnyPlaying GBC"
 date:   2024-04-28 14:30:00 -0800
-tags:   video-games game-boy fpgbc
+tags:   video-games game-boy fpgbc review
 excerpt_separator: <!--more-->
 ---
 
