@@ -1,8 +1,29 @@
 # Linux Handheld Gaming Consoles
 
-In my previous post, I briefly mentioned my collection of handheld gaming consoles, each running custom builds of Linux, EmulationStation, and RetroArch. Now, I want to share my personal thoughts and experiences with these consoles, diving deeper into their unique features and functionalities.
+In my previous post, I briefly mentioned my collection of handheld gaming consoles, each running custom builds of Linux, EmulationStation, and RetroArch.   For this post, I want to share my personal thoughts and experiences with these consoles, diving deeper into their unique features and functionalities.
 
-I'll cover the Anbernic RG351MP, RG552, and RG35XX H consoles and a RetroFlag GPi Case 2. Although the original and OLED Steam Decks are handhelds that run Linux, EmulationStation, and RetroArch, I'll save them for future posts.
+The devices that I'll cover are the Anbernic RG351MP, RG35XX H, and RG552, and the RetroFlag GPi 2 Case. I won't cover the Steam Deck in this post, as they deserve a separate post, given that I don't just use them for emulation.
+
+## Why I Buy and Collect Linux Handheld Consoles
+
+Even though I have a sizable collection of Nintendo Game Boy, Game Boy Advance, and DS family of handhelds, I still wanted handhelds to play games for other consoles while not being tethered to a TV or a computer.
+
+Having had various RetroPie or Lakka setups that used EmulationStation and RetroArch with clean and easy-to-use interfaces, I wanted something similar in a handheld device.
+
+I also wanted to target consoles primarily from the 8-bit and 16-bit era, with the addition of Game Boy Advance and original PlayStation (PSX) games. That is when I ran across reviews for several Anbernic devices and started my journey.
+
+## Anbernic RG351MP
+
+My first Anbernic device was an RG351V, as I thought I would like a device that was in a form factor similar to that of the original Nintendo Game Boy. The RG351V has a Rockchip RK3326 processor with four ARM Cortex-A35 cores, a 3.5-inch 640x480 display, and two TF/microSD card slots (one for the operating system and an optional card for storing games). The 4:3 screen ratio with a vertical resolution of 480 pixels allows for a 2x integer scale for consoles using 240p and a 1:1 for 480i and 480p.
+
+After using the RG351V for a couple of months, I could not get used to how the shoulder buttons were located on the back of the device, and it did not have the same balance or ergonomics as the Game Boy. I then learned about the RG351MP, which shares the same processor, display, and dual card slots as the RG351V but in a form factor similar to that of the original Game Boy Advance. 
+
+What I liked about the RG351MP over the other devices in the RG351 family is the 4:3 aspect ratio, though the device had a metal shell rather than a plastic shell. While the metal shell has a more premium look and feel, it significantly adds to the device's weight and lacks an internal wireless network controller. The RG351MP kit I purchased included an inexpensive USB wireless network adapter and a Type A to Type C converter.
+
+The screen
+
+The D-pad's deficiency becomes an issue when playing games like Super Mario Bros., Mega Man, or Street Fighter II. The way the D-pad, membrane, and contact pads are designed, there is an issue when trying to get consistent diagonals. This 
+
 
 ## Anbernic RG351MP and RG35XX H
 
