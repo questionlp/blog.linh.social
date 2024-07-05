@@ -1,8 +1,15 @@
-# Linux Handheld Gaming Consoles
+---
+layout: post
+title:  "Linux Handheld Gaming Consoles"
+tags:   video-games linux
+excerpt_separator: <!--more-->
+---
 
 In my previous post, I briefly mentioned my collection of handheld gaming consoles, each running custom builds of Linux, EmulationStation, and RetroArch.   For this post, I want to share my personal thoughts and experiences with these consoles, diving deeper into their unique features and functionalities.
 
 The devices that I'll cover are the Anbernic RG351MP, RG35XX H, and RG552, and the RetroFlag GPi 2 Case. I won't cover the Steam Deck in this post, as they deserve a separate post, given that I don't just use them for emulation.
+
+<!--more-->
 
 ## Why I Buy and Collect Linux Handheld Consoles
 
