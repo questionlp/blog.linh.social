@@ -29,6 +29,7 @@ termina-plex:
   date_format: "%d %B %Y"
   username: blog
   hostname: linh.social
+  centered_tables: true
 
   header_links:
     - { name: "About", url: "/about" }
