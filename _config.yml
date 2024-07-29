@@ -30,6 +30,7 @@ termina-plex:
   username: blog
   hostname: linh.social
   centered_tables: true
+  standard_titles: true
 
   header_links:
     - { name: "About", url: "/about" }
