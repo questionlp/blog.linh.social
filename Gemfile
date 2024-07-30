@@ -33,4 +33,4 @@ gem "base64", "~> 0.2.0"
 gem "csv", "~> 3.3"
 
 # Theme
-gem "termina-plex", ">= 0.3.0"
+gem "termina-plex", ">= 0.4.0"
