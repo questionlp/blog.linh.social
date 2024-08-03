@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About Me
 
-Hello. My name is Linh Pham. I am a Software Release Manager with a background in IT Systems Engineering, where I previously focused on servers, storage, and virtualization. I am also the unofficial scorekeeper of [Wait Wait... Don't Tell Me!](https://waitwait.npr.org), and the creator and maintainer of the [Wait Wait Stats Page](https://stats.wwdt.me).
+Hello. My name is Linh Pham (he/him/they/them). I am a Software Release Manager with a background in IT Systems Engineering, where I previously focused on servers, storage, and virtualization. I am also the unofficial scorekeeper of [Wait Wait... Don't Tell Me!](https://waitwait.npr.org), and the creator and maintainer of the [Wait Wait Stats Page](https://stats.wwdt.me).
 
 In addition, I have created and maintained an audio clip archive for the [TBTL: Too Beautiful to Live](https://tbtl.net) podcast called [Marsupial Gurgle](https://marsupialgurgle.com).
 
