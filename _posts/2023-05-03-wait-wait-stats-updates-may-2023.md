@@ -22,4 +22,4 @@ See the links below to each of the new releases published on GitHub:
 - [api.wwdt.me_v2](https://github.com/questionlp/api.wwdt.me_v2/releases/tag/v2.1.3)
 - [graphs.wwdt.me_v2](https://github.com/questionlp/graphs.wwdt.me_v2/releases/tag/v2.2.5)
 - [reports.wwdt.me_v2](https://github.com/questionlp/reports.wwdt.me_v2/releases/tag/v2.2.5)
-- [stats.wwdt.me_v5](https://github.com/questionlp/stats.wwdt.me_v5/releases/tag/v5.3.0)
+- [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me/releases/tag/v5.3.0)
