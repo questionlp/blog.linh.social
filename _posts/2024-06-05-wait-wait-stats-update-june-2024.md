@@ -18,4 +18,4 @@ The preferred pronouns are displayed on their corresponding details page next to
 
 I am sourcing their preferred pronouns from their profile information on their social media accounts, including Bluesky, Instagram, Threads, Facebook, and X. If they have yet to provide preferred pronouns, I will not add any entries to the database.
 
-More information about the code changes is available in the [release notes](https://github.com/questionlp/stats.wwdt.me_v5/releases/tag/v5.12.0) published on GitHub.
+More information about the code changes is available in the [release notes](https://github.com/questionlp/stats.wwdt.me/releases/tag/v5.12.0) published on GitHub.

@@ -13,9 +13,9 @@ New versions of the Wait Wait Stats Page and the Wait Wait Graphs site have been
 You can find the release notes for the two projects below:
 
 - Wait Wait Stats Page
-  - [Version 5.2.0](https://github.com/questionlp/stats.wwdt.me_v5/releases/tag/v5.2.0)
-  - [Version 5.2.1](https://github.com/questionlp/stats.wwdt.me_v5/releases/tag/v5.2.1)
-  - [Full Changelog](https://github.com/questionlp/stats.wwdt.me_v5/blob/main/CHANGELOG.md)
+  - [Version 5.2.0](https://github.com/questionlp/stats.wwdt.me/releases/tag/v5.2.0)
+  - [Version 5.2.1](https://github.com/questionlp/stats.wwdt.me/releases/tag/v5.2.1)
+  - [Full Changelog](https://github.com/questionlp/stats.wwdt.me/blob/main/CHANGELOG.md)
 - Wait Wait Graphs
   - [Version 2.2.0](https://github.com/questionlp/graphs.wwdt.me_v2/releases/tag/v2.2.0)
   - [Version 2.2.1](https://github.com/questionlp/graphs.wwdt.me_v2/releases/tag/v2.2.1)
