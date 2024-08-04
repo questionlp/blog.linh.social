@@ -18,4 +18,4 @@ The changes have also been published to the respective project repositories on G
 
 - [graphs.wwdt.me_v2](https://github.com/questionlp/graphs.wwdt.me_v2)
 - [reports.wwdt.me_v2](https://github.com/questionlp/reports.wwdt.me_v2)
-- [stats.wwdt.me_v5](https://github.com/questionlp/stats.wwdt.me_v5)
+- [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me)

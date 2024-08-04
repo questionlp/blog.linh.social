@@ -18,7 +18,7 @@ Version 5.3.1 of the Stats Page brings much needed revamping of how pages are re
 
 The update makes the print media rendering to be similar to how the pages are rendered on screen, including the appearance list rendering as two columns and the site title is now included at the top of the print.
 
-For more information on the new version, check out the [release notes](https://github.com/questionlp/stats.wwdt.me_v5/releases/tag/v5.3.1) on GitHub.
+For more information on the new version, check out the [release notes](https://github.com/questionlp/stats.wwdt.me/releases/tag/v5.3.1) on GitHub.
 
 ## Reports Site Updates
 

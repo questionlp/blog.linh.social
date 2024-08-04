@@ -18,7 +18,7 @@ The show URL for each show is also included in show objects returned by the Stat
 
 ## Location Coordinates and Map
 
-A little over two years ago, a [pull request](https://github.com/questionlp/stats.wwdt.me_v5/pull/17) was opened for the Wait Wait Stats Page with a feature that included a map showing the venue's location on the location details page. I was interested in adding the feature, though it would require extending the Wait Stats Database to add columns to store a location's latitude and longitude, collecting and entering the data, and extending the [Stats Library](https://github.com/questionlp/wwdtm), Stats Page, and Stats API.
+A little over two years ago, a [pull request](https://github.com/questionlp/stats.wwdt.me/pull/17) was opened for the Wait Wait Stats Page with a feature that included a map showing the venue's location on the location details page. I was interested in adding the feature, though it would require extending the Wait Stats Database to add columns to store a location's latitude and longitude, collecting and entering the data, and extending the [Stats Library](https://github.com/questionlp/wwdtm), Stats Page, and Stats API.
 
 In the past several weeks, I found some spare time to collect the data, extend the locations table schema, and incorporate the changes submitted in the pull request. I also took the opportunity to change how the city and state were displayed for each location on the Stats Page.
 
