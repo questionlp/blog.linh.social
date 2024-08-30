@@ -42,6 +42,7 @@ termina-plex:
     - { name: "About", url: "/about" }
     - { name: "Blog", url: "/blog" }
     - { name: "Links", url: "/links" }
+    - { name: "Projects", url: "/projects" }
 
   social_links:
     - { name: "Mastodon", url: "https://linh.social/@qlp", rel="me" }
