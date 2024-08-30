@@ -49,6 +49,7 @@ termina-plex:
     - { name: "Flickr", url: "https://flickr.com/questionlp" }
     - { name: "Instagram", url: "https://instagram.com/theqlp" }
     - { name: "Bluesky", url: "https://bsky.app/profile/linh.social" }
+    - { name: "RSS", url: "/feed.xml" }
 
   # social_links:
   #   - { platform: mastodon, user_url: "https://linh.social/@qlp", title: "Mastodon" }
