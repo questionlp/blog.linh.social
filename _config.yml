@@ -45,6 +45,7 @@ termina-plex:
     - { name: "Projects", url: "/projects" }
 
   social_links:
+    - { name: "Blog", url: "/blog" }
     - { name: "Mastodon", url: "https://linh.social/@qlp", rel="me" }
     - { name: "GitHub", url: "https://github.com/questionlp" }
     - { name: "Flickr", url: "https://flickr.com/questionlp" }
