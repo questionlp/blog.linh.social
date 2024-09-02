@@ -17,9 +17,9 @@ You can find the release notes for the two projects below:
   - [Version 5.2.1](https://github.com/questionlp/stats.wwdt.me/releases/tag/v5.2.1)
   - [Full Changelog](https://github.com/questionlp/stats.wwdt.me/blob/main/CHANGELOG.md)
 - Wait Wait Graphs
-  - [Version 2.2.0](https://github.com/questionlp/graphs.wwdt.me_v2/releases/tag/v2.2.0)
-  - [Version 2.2.1](https://github.com/questionlp/graphs.wwdt.me_v2/releases/tag/v2.2.1)
-  - [Full Changelog](https://github.com/questionlp/graphs.wwdt.me_v2/blob/main/CHANGELOG.md)
+  - [Version 2.2.0](https://github.com/questionlp/graphs.wwdt.me/releases/tag/v2.2.0)
+  - [Version 2.2.1](https://github.com/questionlp/graphs.wwdt.me/releases/tag/v2.2.1)
+  - [Full Changelog](https://github.com/questionlp/graphs.wwdt.me/blob/main/CHANGELOG.md)
 
 In addition to the updates to the Stats Page and the Graphs site, version 1.0 of the [Stats API](https://api.wwdt.me) be fully deprecated and made unavailable after 31 January 2023.
 

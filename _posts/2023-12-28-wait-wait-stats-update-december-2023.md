@@ -26,5 +26,5 @@ Additional information on the changes is available in the release notes for the 
 
 * Wait Wait Stats Library: [v2.6.1](https://github.com/questionlp/wwdtm/releases/tag/v2.6.1)
 * Wait Wait Stats API: [v2.7.1](https://github.com/questionlp/api.wwdt.me_v2/releases/tag/v2.7.1)
-* Wait Wait Graphs: [v2.7.1](https://github.com/questionlp/graphs.wwdt.me_v2/releases/tag/v2.7.1)
+* Wait Wait Graphs: [v2.7.1](https://github.com/questionlp/graphs.wwdt.me/releases/tag/v2.7.1)
 * Wait Wait Stats: [v5.8.0](https://github.com/questionlp/stats.wwdt.me/releases/tag/v5.8.0)

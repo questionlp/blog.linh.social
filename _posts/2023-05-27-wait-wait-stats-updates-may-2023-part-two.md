@@ -32,7 +32,7 @@ Additional information about the changes included in both versions, check out th
 
 Version 2.2.6 brings updating the [Plotly.js](https://plotly.com/javascript/) version from 2.20.0 to 2.23.1, which includes a few bugfixes and updates to the library.
 
-For more information about the new version, check out [release notes](https://github.com/questionlp/graphs.wwdt.me_v2/releases/tag/v2.2.6) on GitHub.
+For more information about the new version, check out [release notes](https://github.com/questionlp/graphs.wwdt.me/releases/tag/v2.2.6) on GitHub.
 
 ## Upcoming Plans
 

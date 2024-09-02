@@ -16,6 +16,6 @@ Lastly, the version of Pure CSS used by the [Wait Wait Reports Site](https://rep
 
 The changes have also been published to the respective project repositories on GitHub:
 
-- [graphs.wwdt.me_v2](https://github.com/questionlp/graphs.wwdt.me_v2)
+- [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
 - [reports.wwdt.me_v2](https://github.com/questionlp/reports.wwdt.me_v2)
 - [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me)
