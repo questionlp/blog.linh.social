@@ -35,7 +35,7 @@ The Wait Wait Reports site provides detailed reports and search features that pr
 The Wait Wait Graphs site has interactive charts that present information ranging from panelist scoring and appearances to Bluff the Listener statistics. The site is written in Python and built using Flask and Plotly.js.
 
 * [graphs.wwdt.me](https://graphs.wwdt.me/)
-* [GitHub Repository](https://github.com/questionlp/graphs.wwdt.me_v2)
+* [GitHub Repository](https://github.com/questionlp/graphs.wwdt.me)
 
 ## Marsupial Gurgle
 
