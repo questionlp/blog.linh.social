@@ -61,7 +61,7 @@ Since the [Wait Wait Graphs Site](https://graphs.wwdt.me/) also uses the Materia
 
 The source code for the Wait Wait Stats Page is available on GitHub under the [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me) repository.
 
-In addition to the Wait Wait Stats Page updates, I have updated the [Wait Wait Reports](https://reports.wwdt.me/) site to include two new reports: a show descriptions report and a show notes report. The source code for the Wait Wait Reports site is available on GitHub under the [reports.wwdt.me_v2](https://github.com/questionlp/reports.wwdt.me_v2) repository.
+In addition to the Wait Wait Stats Page updates, I have updated the [Wait Wait Reports](https://reports.wwdt.me/) site to include two new reports: a show descriptions report and a show notes report. The source code for the Wait Wait Reports site is available on GitHub under the [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me) repository.
 
 ## Supporting the Wait Wait Stats Project
 

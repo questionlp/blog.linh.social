@@ -26,7 +26,7 @@ Versions 2.3.0 and 2.3.1 introduce two new reports, [Panelist Average Scores by 
 
 Also included are fixes to typos in other panelist dropdowns, addition of tooltips for each cell in the [Panelist Appearances by Year](https://reports.wwdt.me/panelists/appearances-by-year) report, and fixing the rendering of the same report when rendered using print media.
 
-Additional information about the changes included in both versions, check out the [releases](https://github.com/questionlp/reports.wwdt.me_v2/releases) page on GitHub.
+Additional information about the changes included in both versions, check out the [releases](https://github.com/questionlp/reports.wwdt.me/releases) page on GitHub.
 
 ## Graphs Site Updates
 

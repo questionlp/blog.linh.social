@@ -27,5 +27,5 @@ If you would like to view the release notes for the new versions of the Stats li
   - [Release Notes](https://github.com/questionlp/stats.wwdt.me/releases/tag/v5.5.0)
   - [Repository](https://github.com/questionlp/stats.wwdt.me)
 - Reports Site v2.5.0
-  - [Release Notes](https://github.com/questionlp/reports.wwdt.me_v2/releases/tag/v2.5.0)
-  - [Repository](https://github.com/questionlp/reports.wwdt.me_v2)
+  - [Release Notes](https://github.com/questionlp/reports.wwdt.me/releases/tag/v2.5.0)
+  - [Repository](https://github.com/questionlp/reports.wwdt.me)

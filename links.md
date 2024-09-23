@@ -24,7 +24,7 @@ permalink: /links/
 - [Wait Wait Graphs](https://graphs.wwdt.me)
   - [GitHub: graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
 - [Wait Wait Reports](https://reports.wwdt.me)
-  - [GitHub: reports.wwdt.me_v2](https://github.com/questionlp/reports.wwdt.me_v2)
+  - [GitHub: reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me)
 - [Wait Wait Stats Python Package: wwdtm](https://pypi.org/project/wwdtm/)
   - [GitHub: wwdtm](https://github.com/questionlp/wwdtm)
 - [Wait Wait Stats Blog](https://blog.wwdt.me) *(Inactive)*

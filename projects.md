@@ -28,7 +28,7 @@ As I received more requests for data from the Wait Wait Stats database, I create
 The Wait Wait Reports site provides detailed reports and search features that provide information that goes beyond what is available on the Wait Wait Stats Page. The site is written in Python and built using Flask.
 
 * [reports.wwdt.me](https://reports.wwdt.me/)
-* [GitHub Repository](https://github.com/questionlp/reports.wwdt.me_v2)
+* [GitHub Repository](https://github.com/questionlp/reports.wwdt.me)
 
 ### Wait Wait Graphs
 
