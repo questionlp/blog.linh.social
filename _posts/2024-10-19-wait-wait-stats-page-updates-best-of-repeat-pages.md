@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Wait Wait Stats Library and Page Updates: Best Of and Repeat Shows"
+date: 2024-10-19 21:30:00 -0700
+tags: waitwait update
+excerpt_separator: <!--more-->
+---
+
+Version 2.13.0 of the [Wait Wait Stats Library](https://github.com/questionlp/wwdtm) has been published, and it includes new show methods for retrieving show information and details for Best Of, Repeat, and Best Of Repeat shows.
+
+The new version of the Stats Library also introduces initial support for [Python 3.13](https://www.python.org/downloads/release/python-3130/) and replaces the Pallets Flask Sphinx theme with Furo. Updated documentation is available at [docs.wwdt.me](https://docs.wwdt.me)
+
+<!--more-->
+
+The new version of the [Wait Wait Stats Page](https://stats.wwdt.me) uses the updated Stats Library to include new corresponding [Best Of](https://stats.wwdt.me/shows/best-ofs), [Repeat](https://stats.wwdt.me/shows/repeats) and [Best Of Repeat](https://stats.wwdt.me/shows/best-of-repeats) shows pages.
+
+Release notes for both are available on GitHub:
+
+* [wwdtm: Release v2.13.0](https://github.com/questionlp/wwdtm/releases/tag/v2.13.0)
+* [stats.wwdt.me: Release v6.2.0](https://github.com/questionlp/stats.wwdt.me/releases/tag/v6.2.0)
