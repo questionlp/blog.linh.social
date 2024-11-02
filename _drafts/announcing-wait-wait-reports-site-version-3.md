@@ -12,7 +12,13 @@ Earlier this year, I migrated the [Wait Wait Stats Page](https://stats.wwdt.me) 
 
 Before version 3, the Reports Site used [Pure CSS](https://pure-css.github.io/) to provide a lightweight, minimal look and feel for a data-intensive website. One downside of Pure CSS is its limited support for responsive tables, which would require significant work to replicate the responsive navigation and form layout features that Bootstrap has included.
 
+| [![Wait Wait Reports Site v3 Main Page (Light Mode)](/assets/images/waitwait/20241102/reports-v3-main-light.png "Wait Wait Reports Site v3 Main Page")](/assets/images/waitwait/20241102/reports-v3-main-light.png) | [![Wait Wait Reports Site v3 Main Page (Dark Mode)](/assets/images/waitwait/20241102/reports-v3-main-dark.png "Wait Wait Reports Site v3 Main Page (Dark Mode)")](/assets/images/waitwait/20241102/reports-v3-main-dark.png) |
+| <center>v3 Main Page (Light Mode)</center> | <center>v3 Main Page (Dark Mode)</center> |
+
 The new version of the Reports Site uses the same theme as the Stats Page and Graphs Site, albeit with additional cards, forms, and alert box styles. The updated Reports Site also includes automatic light and dark mode support, with the option of choosing which mode to use.
+
+| [![Wait Wait Reports Site v3 Shows Index Page](/assets/images/waitwait/20241102/reports-v3-shows-index.png "Wait Wait Reports Site v3 Shows Index Page")](/assets/images/waitwait/20241102/reports-v3-shows-index.png) | [![Wait Wait Reports Site v3 Panelist vs Panelist: All Report](/assets/images/waitwait/20241102/reports-v3-panelist-pvp.png "Wait Wait Reports Site v3 Panelist vs Panelist: All Report")](/assets/images/waitwait/20241102/reports-v3-panelist-pvp.png) |
+| <center>v3 Shows Index Page</center> | <center>v3 Panelists vs Panelist: All Report</center> |
 
 By leveraging Bootstrap's response design elements, the Reports Site will be easier to view and use on devices with smaller screens. Since all reports present data using tables, horizontal scrolling is available when viewing tables on smaller screens.
 
