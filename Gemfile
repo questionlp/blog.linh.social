@@ -37,4 +37,4 @@ gem "logger", '~> 1.6'
 gem 'ostruct', '~> 0.6.0'
 
 # Theme
-gem "termina-plex", :path => "../termina-plex/"
+gem "termina-plex", ">= 0.5.0", :path => "../termina-plex/"
