@@ -53,6 +53,8 @@ termina-plex:
     - { name: "Bluesky", url: "https://bsky.app/profile/linh.social" }
     - { name: "RSS", url: "/feed.xml" }
 
+  fediverse_creator: "@qlp@linh.social"
+
   # social_links:
   #   - { platform: mastodon, user_url: "https://linh.social/@qlp", title: "Mastodon" }
   #   - { platform: github, user_url: "https://github.com/questionlp", title: "GitHub" }

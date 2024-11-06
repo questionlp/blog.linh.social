@@ -41,7 +41,7 @@ The Wait Wait Graphs site has interactive charts that present information rangin
 
 I have been collecting, editing and archiving audio clips from the daily podcast "[TBTL: Too Beautiful to Live](https://tbtl.net/)". The site is named after an audio phenomenon that happened on an episode of the podcast from 2014.
 
-* [MarsupialGurgle.com](https://marsupialgurgle.com/)
+* [marsupialgurgle.com](https://marsupialgurgle.com/)
 
 ## Photography
 
