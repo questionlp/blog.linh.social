@@ -12,7 +12,6 @@ permalink: /links/
 - GitHub: [questionlp](https://github.com/questionlp)
   - GitHub Gists: [questionlp](https://gist.github.com/questionlp)
 - Flickr: [questionlp](https://www.flickr.com/people/questionlp/)
-- Patreon: [Linh_Pham](https://patreon.com/Linh_Pham)
 
 ## Current Projects
 

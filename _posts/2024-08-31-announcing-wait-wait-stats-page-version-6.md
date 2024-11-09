@@ -68,5 +68,4 @@ In addition to the Wait Wait Stats Page updates, I have updated the [Wait Wait R
 If you enjoy using the Wait Wait Stats Page and find the project helpful, please consider sponsoring my work via the links below to help cover ongoing development and hosting costs. Any donation or token of support is greatly appreciated!
 
 * [GitHub Sponsor](https://github.com/sponsors/questionlp)
-* [Patreon](https://patreon.com/Linh_Pham)
 * [Ko-fi](https://ko-fi.com/questionlp)

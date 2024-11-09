@@ -38,4 +38,4 @@ Having a gender column no longer makes sense from a data or societal norms persp
 
 ## Support the Wait Wait Stats Project
 
-If you would like to support the continual development of the Wait Wait Stats Project or help cover the hosting costs, please consider donating via [GitHub Sponsors](https://github.com/sponsors/questionlp) or [Patreon](https://patreon.com/Linh_Pham).
+If you would like to support the continual development of the Wait Wait Stats Project or help cover the hosting costs, please consider donating via [GitHub Sponsors](https://github.com/sponsors/questionlp).

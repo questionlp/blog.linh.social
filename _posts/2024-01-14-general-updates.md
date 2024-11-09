@@ -1,24 +1,22 @@
 ---
 layout: post
-title:  "General Updates and Patreon"
+title:  "General Updates"
 date:   2024-01-14 18:00:00 -0800
 tags:   debian hardware linux laptops waitwait update
 excerpt_separator: <!--more-->
 ---
 
-I have been busy with several updates to the Wait Wait Stats projects and changes to my homelab and ThinkPad. I am providing an update on that, along with my first foray into the world of Patreon.
+I have been busy with several updates to the Wait Wait Stats projects and changes to my homelab and ThinkPad.
 
 <!--more-->
 
-## Wait Wait Stats Updates and Patreon
+## Wait Wait Stats Updates
 
 After listening through all of the Wait Wait... Don't Tell Me shows from 1998, at least the audio I have; I am taking a break before listening to the shows from 1999.
 
 Meanwhile, I have been going through doing a much-needed code cleanup of the Wait Wait Stats Library and the Stats Page. I have switched to using [Ruff](https://docs.astral.sh/ruff/) for code linting and formatting for both projects. Using Ruff with Visual Studio Code and Pylance has allowed me to quickly do some much-needed code cleanup, using new type aliases and using `pathlib` to handle file and path operations.
 
 For more information on the Stats library changes, check the Changes page at [docs.wwdt.me](https://docs.wwdt.me/latest/changes/).
-
-If you would like to help support the development of future versions of the Wait Wait Stats projects and help cover some of the hosting costs, I have set up a [Patreon](https://www.patreon.com/Linh_Pham) where you can become a member for 3 USD/month.
 
 ## ThinkPad Laptop Updates: Moving to Debian 12
 
