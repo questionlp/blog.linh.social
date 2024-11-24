@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mastodon and Bluesky Podcast Bot"
+title:  "New Mastodon and Bluesky Podcast Bot Application"
 date:   2024-11-23 18:30:00 -0800
 tags:   python mastodon bluesky podcast
 excerpt_separator: <!--more-->
