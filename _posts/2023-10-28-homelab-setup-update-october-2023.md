@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Homelab Setup: October 2023 Update"
+title:  "Homelab Setup: October 2023 Updates"
 date:   2023-10-28 22:10:00 -0700
 tags:   homelab servers storage networking update
 excerpt_separator: <!--more-->

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wait Wait Stats Update: April 2024"
+title:  "Wait Wait Stats Updates: April 2024"
 date:   2024-04-24 22:10:00 -0800
 tags:   waitwait update
 excerpt_separator: <!--more-->

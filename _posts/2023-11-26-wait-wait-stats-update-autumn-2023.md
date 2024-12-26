@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wait Wait Stats Update: Autumn 2023"
+title:  "Wait Wait Stats Updates: Autumn 2023"
 date:   2023-11-26 20:25:00 -0800
 tags:   waitwait update
 excerpt_separator: <!--more-->

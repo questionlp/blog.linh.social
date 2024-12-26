@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wait Wait Stats Update: Decimal Scores Part Two"
+title:  "Wait Wait Stats Updates: Decimal Scores Part Two"
 date:   2023-09-06 20:00:00 -0700
 tags:   waitwait update
 excerpt_separator: <!--more-->

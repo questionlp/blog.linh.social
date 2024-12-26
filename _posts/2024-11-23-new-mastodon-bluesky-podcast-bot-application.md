@@ -16,7 +16,7 @@ When it comes to checking each podcast feed for new episodes, the scripts will p
 
 Instead of having to duplicate the effort across both projects, I decided to merge the two projects together and created [podcast-bot](https://github.com/questionlp/podcast-bot).
 
-The combined application supports posting to both Mastodon and Bluesky, with the ability to enable or disable specific feeds and either posting to Mastodon and/or Bluesky for each feed. The application logic now does an HTTP `HEAD` request for each feed to check to see if the `Last-Modified` value has been updated since the last time it was checked. 
+The combined application supports posting to both Mastodon and Bluesky, with the option to enable or disable specific feeds and an option to post to Mastodon and/or Bluesky. The application logic now does an HTTP `HEAD` request for each feed to check to see if the `Last-Modified` value has been updated since the last time it was checked.
 
 If the value has been updated, it will continue to fetch a copy of the feed. The value is stored in a separate table in the same SQLite database that is used to store seen podcast episodes. For feeds that don't have a `Last-Modified` value, the current timestamp is stored to note the last time the feed was checked and processed.
 
