@@ -52,4 +52,4 @@ Barring any unforseen circumstances, I will also be attending [PyCascades 2025](
 
 If you would like to contact me online, I am available on Mastodon as [@qlp@linh.social](https://linh.social/@qlp) and on Bluesky as [@linh.social](https://bsky.app/profile/linh.social).
 
-I am no longer active on Threads and have been limiting my use of Instagram ([@theqlp](https://www.instagram.com/theqlp/)) to posting photos of my Wait Wait notes and of events that I have been going to.
+I am no longer on Threads and my Instagram account ([@theqlp](https://www.instagram.com/theqlp/)) is on haitus. I will be limiting my activity there to posting photos from certain events, including [Live Wire Radio](https://livewireradio.org/). I will continue to post photos of my [Wait Wait Notes](https://www.flickr.com/photos/questionlp/albums/72157718939162790) and other photos to my [Flickr photostream](https://www.flickr.com/photos/questionlp/).

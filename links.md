@@ -7,7 +7,7 @@ permalink: /links/
 ## Social Media/Networking
 
 - Mastodon: [@qlp@linh.social](https://linh.social/@qlp)
-- Instagram: [@theqlp](https://instagram.com/theqlp)
+<!-- - Instagram: [@theqlp](https://instagram.com/theqlp) -->
 - Bluesky: [@linh.social](https://bsky.app/profile/linh.social)
 - GitHub: [questionlp](https://github.com/questionlp)
   - GitHub Gists: [questionlp](https://gist.github.com/questionlp)
