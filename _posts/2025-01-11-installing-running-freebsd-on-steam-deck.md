@@ -233,9 +233,10 @@ The following list are a couple of other notes and observations that I've collec
 | <center>Watching [Veronica Explains](https://vkc.sh/) video on the [column command](https://www.youtube.com/watch?v=uL7KvRskeog) in Firefox</center> | <center>Watching the same video in full-screen with 4K quality reporting zero dropped frames</center> |
 
 - Some of the integrated Steam Deck buttons have some function, while others do not seem to map to anything specific
-  - The directional pad acts like the normal up, down, left and right arrow keys
-  - The `View` button (between the directional pad and the left thumb stick) acts like the `TAB` key
-  - The `A` button acts like an `ENTER` key
+  - The directional pad map to the up, down, left and right arrow keys
+  - The `View` button (between the directional pad and the left thumb stick) maps to the `TAB` key
+  - The `A` button maps to the `ENTER` key
+  - The `B` button maps to the `ESC` key
 - The Ethernet adapter built into the official Steam Deck Dock intermittently worked and dropped out several times under heavy load. Other USB Ethernet adapters, like the one in the Anker USB hub that I used, may be less flaky or buggy.
 - Neither the built-in speakers or the built-in headphone jack output any audio. Audio does come out of the HDMI port when the "AMD R6xx (HDMI)" audio device labeled in KDE Plasma as `2` (`pcm2`) is selected.
 - I was able to get audio output to a headphone using a [UGREEN USB-C to 3.5mm Audio Adapter](https://www.amazon.com/gp/product/B082WG5VTK). The device did not show up as an audio device until I plugged my headphone into the adapter.
