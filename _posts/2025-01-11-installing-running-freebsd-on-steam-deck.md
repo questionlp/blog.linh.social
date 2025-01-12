@@ -232,7 +232,7 @@ The following list are a couple of other notes and observations that I've collec
 | ![Veronica Explains YouTube video playing in Firefox](/assets/images/steam-deck-freebsd/kde-firefox-youtube-video.png "Veronica Explains YouTube video playing in Firefox") | ![Veronica Explains YouTube video playing in Firefox in full-screen with a 4K stream](/assets/images/steam-deck-freebsd/firefox-full-screen-youtube-video.jpeg "Veronica Explains YouTube video playing in Firefox with a 4K stream") |
 | <center>Watching [Veronica Explains](https://vkc.sh/) video on the [column command](https://www.youtube.com/watch?v=uL7KvRskeog) in Firefox</center> | <center>Watching the same video in full-screen with 4K quality reporting zero dropped frames</center> |
 
-- Some of the integrated Steam Deck buttons have some function, while others do not seem to map to anything specific:
+- Some of the integrated Steam Deck buttons have some function, while others do not seem to map to anything specific
   - The directional pad acts like the normal up, down, left and right arrow keys
   - The `View` button (between the directional pad and the left thumb stick) acts like the `TAB` key
   - The `A` button acts like an `ENTER` key
