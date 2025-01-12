@@ -133,8 +133,8 @@ sysctl net.local.stream.sendspace=65536
 In order to set both tunables at startup, edit the `/etc/sysctl.conf` file and add the following lines:
 
 ```text
-sysctl net.local.stream.recvspace=65536
-sysctl net.local.stream.sendspace=65536
+net.local.stream.recvspace=65536
+net.local.stream.sendspace=65536
 ```
 
 At this point, it will want to reboot to get everything up and running. After rebooting, you should be greeted with the SDDM graphical login manager, though the display will not be in the correct orientation. You can change it for your user session by going into the KDE System Settings program and changing it under the display settings. The correct orientation option should be the monitor with the base pointing to the left, which will rotate the display clockwise.
