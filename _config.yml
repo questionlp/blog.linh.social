@@ -50,6 +50,7 @@ termina-plex:
     - { name: "Bluesky", url: "https://bsky.app/profile/linh.social" }
     - { name: "GitHub", url: "https://github.com/questionlp" }
     - { name: "Flickr", url: "https://flickr.com/questionlp" }
+    - { name: "Pixelfed", url: "https://pxl.linh.social/qlp" }
     # - { name: "Instagram", url: "https://instagram.com/theqlp" }
     - { name: "RSS", url: "/feed.xml" }
 
