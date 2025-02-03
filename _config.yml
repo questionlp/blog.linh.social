@@ -14,8 +14,6 @@ favicon: "/assets/images/favicon.png"
 favicon_svg: "/assets/images/favicon.svg"
 apple_touch_icon: "/assets/images/apple-touch-icon.png"
 
-#google_analytics: "G-9ZSYX22V2Z"
-
 umami_analytics:
   url: "https://unagi.linhpham.org/script.js"
   data_website_id: "a12d4902-6bc1-4ef4-a33a-fccda44215bb"
