@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Launching "Hey Gurgle" Search Engine'
+title:  "Launching the Hey Gurgle Search Engine"
 date: 2025-03-16 20:05 -0700
 tags: tbtl marsupial-gurgle python
 excerpt_separator: <!--more-->
